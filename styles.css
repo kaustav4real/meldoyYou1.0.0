@@ -1,0 +1,65 @@
+body{
+    background-color: #96C7C1;
+}
+.heading {
+    color: white;
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 35px;
+    position: relative;
+    top: 3rem;
+    text-align: center;
+}
+.intro {
+    background-color: black;
+    border-radius: 31px;
+    height: fit-content;
+    position: relative;
+    top: 8rem;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.introContent {
+    color: floralwhite;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    padding: 20px;
+}
+
+.container{
+    position: relative;
+    top: 11rem;
+}
+
+img {
+    width: 50%;
+    border-radius: 1em;
+}
+.title{
+    font-size: 22px;
+}
+.contactMe{
+    padding: 14px;
+    position: relative;
+    top: 9rem;
+}
+.contactMeContent{
+    font-family: 'Noto Sans Display', sans-serif;
+    font-size: 26px;
+}
+.madeByContent{
+    position: relative;
+    top: 11em;
+}
+table{
+    display: inline-table;
+    position: relative;
+    top: 20rem;
+}
+th{
+    padding: 0 15px;
+  }
+audio{
+    width: 94%;
+    height: 22px;
+    margin-top: 1rem;
+}
